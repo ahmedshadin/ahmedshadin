@@ -7,7 +7,7 @@
 A passionate web developer with a knack for building clean, efficient, and scalable web applications. With a strong foundation in front-end and back-end development, I enjoy turning complex problems into simple, beautiful, and intuitive designs.I love working on projects that involve real-time data, responsive design, and seamless user experiences. I also enjoy participating in hackathons and collaborating with other developers to bring ideas to life.
 
 Skills:
- HTML / CSS / BOOTSTRAP / PHP / MYSQL / OOP WORDPRESS
+ HTML / CSS / BOOTSTRAP / PHP / MYSQL / OOP / WORDPRESS
 
 - 🔭 I’m currently working on SoftTech-IT 
 - 🌱 I’m currently learning Laravel 
